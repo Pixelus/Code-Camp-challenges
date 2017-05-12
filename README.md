@@ -9,3 +9,4 @@ Challenges from Code Camp in HTML5, CSS3, jQuery and JavaScript languages.
 Challenges from Basic Algorithm Scripting Section in JavaScript.
 
 * Reverse a string
+* Factorialize a number
