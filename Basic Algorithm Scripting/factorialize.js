@@ -6,3 +6,5 @@ function factorialize(num) {
   }
    return factorial;
 }
+
+factorialize(5);
