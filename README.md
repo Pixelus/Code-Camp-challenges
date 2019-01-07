@@ -1,6 +1,6 @@
 # Free Code Camp challenges and basics algorithms scriptings
 
-Challenges from Code Camp in HTML5, CSS3, jQuery and JavaScript languages.
+Projects from Free Code Camp in HTML5, CSS3, jQuery and JavaScript languages.
 
 ## Responsive Web Design Certification Projects
 
