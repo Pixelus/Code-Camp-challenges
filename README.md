@@ -2,7 +2,7 @@
 
 Challenges from Code Camp in HTML5, CSS3, jQuery and JavaScript languages.
 
-# Responsive Web Design Certification Projects
+## Responsive Web Design Certification Projects
 
 * Build a Tribute Page : https://codepen.io/Pixelus/pen/XjApLP  - build with Bootstrap front-end Framework 3.3.7
 * Build a Survey Form : https://codepen.io/Pixelus/pen/KrexwX - build with HTML & CSS
@@ -11,7 +11,7 @@ Challenges from Code Camp in HTML5, CSS3, jQuery and JavaScript languages.
 * Build a Personal Portfolio Webpage : 
 
 *********************
-# JavaScript Algorithms and Data Structures Certification Projects
+## JavaScript Algorithms and Data Structures Certification Projects
 
 * Palindrome Checker
 * Roman Numeral Converter
@@ -20,7 +20,7 @@ Challenges from Code Camp in HTML5, CSS3, jQuery and JavaScript languages.
 * Cash Register
 
 *********************
-# Front End Libraries Certification Projects
+## Front End Libraries Certification Projects
 
 * Build a Random Quote Machine
 * Build a Markdown Previewer
@@ -29,7 +29,7 @@ Challenges from Code Camp in HTML5, CSS3, jQuery and JavaScript languages.
 * Build a Pomodoro Clock
 
 *********************
-# Data Visualization Certification Projects
+## Data Visualization Certification Projects
 
 * Visualize Data with a Bar Chart
 * Visualize Data with a Scatterplot Graph
@@ -38,7 +38,7 @@ Challenges from Code Camp in HTML5, CSS3, jQuery and JavaScript languages.
 * Visualize Data with a Treemap Diagram
 
 *********************
-# Apis And Microservices Certification Projects
+## Apis And Microservices Certification Projects
 
 * Timestamp Microservice
 * Request Header Parser Microservice
@@ -47,7 +47,7 @@ Challenges from Code Camp in HTML5, CSS3, jQuery and JavaScript languages.
 * File Metadata Microservice
 
 *********************
-# Information Security And Quality Assurance Certification Projects
+## Information Security And Quality Assurance Certification Projects
 
 * Metric-Imperial Converter
 * Issue Tracker
