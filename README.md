@@ -10,7 +10,6 @@ Projects from Free Code Camp in HTML5, CSS3, jQuery and JavaScript languages.
 * Build a Technical Documentation Page : 
 * Build a Personal Portfolio Webpage : 
 
-*********************
 ## JavaScript Algorithms and Data Structures Certification Projects
 
 * Palindrome Checker
@@ -19,7 +18,6 @@ Projects from Free Code Camp in HTML5, CSS3, jQuery and JavaScript languages.
 * Telephone Number Validator
 * Cash Register
 
-*********************
 ## Front End Libraries Certification Projects
 
 * Build a Random Quote Machine
@@ -28,7 +26,6 @@ Projects from Free Code Camp in HTML5, CSS3, jQuery and JavaScript languages.
 * Build a JavaScript Calculator
 * Build a Pomodoro Clock
 
-*********************
 ## Data Visualization Certification Projects
 
 * Visualize Data with a Bar Chart
@@ -37,7 +34,6 @@ Projects from Free Code Camp in HTML5, CSS3, jQuery and JavaScript languages.
 * Visualize Data with a Choropleth Map
 * Visualize Data with a Treemap Diagram
 
-*********************
 ## Apis And Microservices Certification Projects
 
 * Timestamp Microservice
@@ -46,7 +42,6 @@ Projects from Free Code Camp in HTML5, CSS3, jQuery and JavaScript languages.
 * Exercise Tracker
 * File Metadata Microservice
 
-*********************
 ## Information Security And Quality Assurance Certification Projects
 
 * Metric-Imperial Converter
