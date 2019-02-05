@@ -1,3 +1,6 @@
+// Program to reverse a string.
+// Reverse and return the provided string.
+
 function reverseString(str) {
   // Put string in array
   var arrayString = str.split('');
