@@ -4,7 +4,7 @@ Projects from Free Code Camp in HTML5, CSS3, jQuery and JavaScript languages.
 
 ## Responsive Web Design Certification Projects
 
-* Build a Tribute Page : https://codepen.io/Pixelus/pen/XjApLP  - build with Bootstrap front-end Framework 3.3.7
+* Build a Tribute Page : https://codepen.io/Pixelus/pen/XjApLP - build with Bootstrap front-end Framework 3.3.7
 * Build a Survey Form : https://codepen.io/Pixelus/pen/KrexwX - build with HTML & CSS
 * Build a Product Landing Page : https://codepen.io/Pixelus/pen/yQmezP - build with CSS Flexbox 
 * Build a Technical Documentation Page
